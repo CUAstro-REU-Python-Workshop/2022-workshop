@@ -1,22 +1,22 @@
 # Cornell Astronomy 2021 REU - Python Workshop
-Welcome to the GitHub repository for the Cornell Astronomy Summer 2021 Python
-workshop! Much of this is reused with generous permission from the 2020 REU
-Python Workshop, located [here](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop/).
+Welcome to the GitHub repository for the Cornell Astronomy Summer 2022 Python
+workshop! Much of this is reused with generous permission from the 2020 and 2021 REU
+Python Workshops, located [here](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop/) and [here](https://github.com/yubo56/2021-workshop).
 
-**Conveners:** Stella Koch Ocker, Yubo Su, Jonathan Davis
+**Conveners:** 
 
 |    |Info|
 |---:|:---|
 |Zoom link|sent via email|
-|               | Tuesday, 8th June 2021 / 11:00 - 12:00|
-|Dates and time | Tuesday, 15th June 2021 / 11:00-12:00|
-|               | Wednesday, 16th June 2021 / 2:00-3:00|
+|      Dates and time   | Tuesday, 14th June 2021 / 10:00 - |
+|           | Thursday, 16th June 2021 / 10:00 - |
+
 
 
 ## Description
 
 Our goal is to provide an introduction and overview of the Python programming
-language and ecosystem, including the base python languare features and some
+language and ecosystem, including the base python language features and some
 libraries which are widely used both inside and outside of astronomy.
 
 We will be using [jupyter](https://jupyter.org/) notebooks throughout, which are
@@ -29,7 +29,7 @@ section below. Along with these introductory concepts, we will introduce you to:
 
 - The python ecosystem, and jupyter notebooks.
 - The basic libraries of numerical and scientific computing, NumPy and SciPy.
-- How to visualise and plot data using matplotlib
+- How to visualize and plot data using matplotlib
 - Libraries for easily working with data, such as Pandas.
 
 We hope for this workshop to be a springboard from which you can learn much more
