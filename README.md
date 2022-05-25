@@ -1,4 +1,4 @@
-# Cornell Astronomy 2021 REU - Python Workshop
+# Cornell Astronomy 2022 REU - Python Workshop
 Welcome to the GitHub repository for the Cornell Astronomy Summer 2022 Python
 workshop! Much of this is reused with generous permission from the 2020 and 2021 REU
 Python Workshops, located [here](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop/) and [here](https://github.com/yubo56/2021-workshop).
