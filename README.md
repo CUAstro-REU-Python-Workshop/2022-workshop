@@ -51,13 +51,13 @@ sciences.
 
 - Introduction to the Anaconda + Python + Jupiter ecosystem.
 - Use Google Colab to attain basic familiarity with Python syntax and features.
-- notebook: 'CrashCourseInPython.ipynb' [(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/main/part1/CrashCourseInPython.ipynb)
+- notebook: 'CrashCourseInPython.ipynb' [(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/blob/main/part1/CrashCourseInPython.ipynb)
 
 ### Part 2
 
 
 - Introduction to NumPy.
-- notebook: `part2.ipynb` [(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/main/part2/part2.ipynb)
+- notebook: `part2.ipynb` [(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/blob/main/part2/part2.ipynb)
 
 ### Part 3
 
@@ -67,7 +67,7 @@ sciences.
     - `astropy`
     - `sympy`
 - `part3.ipynb` or the [Google Colab
-  version](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/main/part3/part3.ipynb)
+  version](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/blob/main/part3/part3.ipynb)
 
 ### Part 4
 
@@ -99,7 +99,7 @@ the following before the course starts:
   with package distributions like Anaconda. However, if you don't have access to
   Jupyter/Python on your computer (or run into issues installing
   Anaconda/Python), you can find an online interactive version of the notebook
-  [here](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/2020_materials/intro/CrashCourseInPython.ipynb)!
+  [here][(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/blob/main/part1/CrashCourseInPython.ipynb)! You can click on "copy to drive" to be able to edit and run the notebook.
 
 ## *After* the workshop
 
