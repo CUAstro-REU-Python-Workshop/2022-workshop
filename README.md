@@ -45,33 +45,36 @@ sciences.
 
 ## Agenda
 
-We have included excellent and thorough materials from the 2020 edition of this
-workshop, which you may find useful. The `ipynb` files can be found in the
-`2020_materials` folder.
 
-### Day 1
+
+### Part 1
 
 - Introduction to the Anaconda + Python + Jupiter ecosystem.
 - Use Google Colab to attain basic familiarity with Python syntax and features.
-- Introduction to NumPy.
-- notebook: `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/drive/1JZdyfnAu-A7pWduS59Uo3lKpiJNGEmKV?usp=sharing)
+- notebook: 'CrashCourseInPython.ipynb' [(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/main/part1/CrashCourseInPython.ipynb)
 
-### Day 2
+### Part 2
+
+
+- Introduction to NumPy.
+- notebook: `part2.ipynb` [(Google Colab version)](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/main/part2/part2.ipynb)
+
+### Part 3
 
 - Introduction to a few more major scientific computing libraries:
     - `matplotlib`
     - `scipy`
     - `astropy`
     - `sympy`
-- `day2.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/drive/1OlX2-L5KZxhuHjrHuKLKm1zCgHsT2iq4?usp=sharing))
+- `part3.ipynb` or the [Google Colab
+  version](https://githubtocolab.com/CUAstro-REU-Python-Workshop/2022-workshop/tree/main/part3/part3.ipynb)
 
-### Day 3
+### Part 4
 
-- Setting up local environment
+- Setting up local environment (if not done yet)
 - Working from the command line
 - PyCharm and Anaconda
-- Goal: run the script [here](day3/day3_classExample.py) on your local computer.
+- Goal: run the script [here](part4/part4_classExample.py) on your local computer.
 
 ## *Before* the workshop
 
@@ -86,10 +89,10 @@ the following before the course starts:
 
 ![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
 
-- Please go through the notebook
-  [CrashCourseInPython.ipynb](intro/CrashCourseInPython.ipynb) in the 'intro'
+- If you have never programmed before feel free to go through the notebook
+  [CrashCourseInPython.ipynb](part1/CrashCourseInPython.ipynb) in the 'intro'
   folder. It will help you review the basic functionalities and concepts within
-  Python.
+  Python. We will go over it quickly as the first part of the workshop.
 - The CrashCourseInPython.ipynb file is a Jupyter notebook: an open-source web
   application that allows one to create and share documents that contain live
   code, equations, visualizations and narrative text. It comes pre-installed
