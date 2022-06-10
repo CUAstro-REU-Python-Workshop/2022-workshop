@@ -8,8 +8,8 @@ Python Workshops, located [here](https://github.com/CUAstro-REU-Python-Workshop/
 |    |Info|
 |---:|:---|
 |Zoom link|sent via email|
-|      Dates and time   | Tuesday, 14th June 2021 / 10:00 - |
-|           | Thursday, 16th June 2021 / 10:00 - |
+|      Dates and time   | Tuesday, 14th June 2021 / 10:00 - Noon |
+|           | Thursday, 16th June 2021 / 10:00 - Noon|
 
 
 
