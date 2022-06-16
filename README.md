@@ -72,7 +72,7 @@ sciences.
 
 - Setting up local environment (if not done yet)
 - Working from the command line
-- PyCharm and Anaconda
+- Anaconda
 - Goal: run the script [here](part4/part4_classExample.py) on your local computer.
 
 ## *Before* the workshop
