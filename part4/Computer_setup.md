@@ -73,6 +73,8 @@ jupyter notebook
 
 There is a number of other useful software that you can look into using in your workflow
 
-* git and github to create a version history of your code
+* git and github to create a version history of your code and collaborate with others
+Secret bonus task: If you want to learn how to contribute to public codes on github you can use this repo to test it out. Make yourself a github account, figure out how to fork this repository, download it to your machine and add a hello here between the brackets: (). Then commit and push it to your forked repository and go back to github to create a pull request to request to include the change here in the original repository. Happy to approve your request!
 * ssh and ssh keys to access remote machines
-* code editors. Many of them offer convenient functionality like git integration and code highlighting. You can have a look at VSCode, Atom, Emacs and Vim
+* Code editors: many of them offer convenient functionality like git integration and code highlighting. You can have a look at VSCode, Atom, Emacs, Vim and many others
+* docker is a really cool tool that runs software in containers. Sometimes people have made docker containers for difficult to install astronomy software which can potentially safe you a bunch of time if you learn how to use them. 
